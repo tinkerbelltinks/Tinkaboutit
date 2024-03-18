@@ -1,2 +1,2 @@
 # Tinkaboutit
-Tinking
+Tinking about it
